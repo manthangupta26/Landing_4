@@ -5,19 +5,6 @@
  background-color: #fff;
 }
 
-
-.nav-button{
- background-color: #7566e6;
- border-radius: 0.4em;
- font-size: 1.4em;
- font-weight: 400;
- padding: 0.2em 0.5em;
- text-align: center;
- color: #fff;
- margin-top: 5px;
- margin-right: 100px;
-}
-
 .list{
     list-style: none;
     font-size: 25px;
@@ -35,27 +22,8 @@
     font-size: 70px;
 }
 
-.nav-buttonbtn{
-background-color: #7566e6;
-border-radius: 0.4em;
-font-size: 1.4em;
-font-weight: 400;
-padding: 0.8em 0.2em;
-text-align: center;
-color: #fff;
-margin-top: 60px;
-margin-right: 200px;
-}
-
-
- .myimage{
-   height: 74vh;
-} 
-
-.heading-text{
-    text-align: left;
-    margin-top: -40px;
-    font-size: 80px;
+.text{
+    font-size: 70px;
     color: #33155e;
 }
 
@@ -69,3 +37,15 @@ span{
     text-align: left;
     color: #767171;
 }
+
+.button-large{
+background-color: #7566e6;
+border-radius: 0.4em;
+font-size: 30px;
+font-weight: 200;
+padding: 0.5em 0.1em;
+text-align: center;
+color: #fff;
+margin-top: 60px;
+margin-right: 200px;
+} 
